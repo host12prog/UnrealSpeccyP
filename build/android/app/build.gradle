@@ -1,6 +1,6 @@
 apply plugin: 'com.android.application'
 android {
-    compileSdk 34
+    compileSdk 29
 
     defaultConfig {
         applicationId "app.usp"
@@ -9,7 +9,7 @@ android {
 //        targetSdkVersion 10
 
         minSdkVersion 21
-        targetSdkVersion 34
+        targetSdkVersion 29
     }
 
     buildTypes {
